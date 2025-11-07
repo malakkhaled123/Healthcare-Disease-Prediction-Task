@@ -9,7 +9,7 @@ This project predicts the risk of diabetes using the NHANES dataset (August 2021
 ---
 
 ## Dataset
-I first collected .xpt files from 4 places [demographics , questionnarres , examinations , lab tests] , then cleaned & merged each one of them in a notebook , These notebooks are provided here in the repository if you want to refer to them.
+Raw NHANES data (demographics, labs, exams, questionnaires) was merged using SEQN, cleaned, and standardized for modeling.
 
 
 The Final dataset contains **7720 samples** with the following **features**:

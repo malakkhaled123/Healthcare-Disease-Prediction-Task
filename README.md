@@ -190,7 +190,7 @@ diabetes-risk-dashboard/
 
 ## Conclusion:
 
-* This project demonstrates how machine learning can enhance patient care by predicting high-risk patients, enabling early interventions, and supporting proactive hospital resource allocation. The dashboard illustrates both manual input and simulated real-time monitoring, showing how predictive analytics can inform staffing, and equipment planning to improve patient care andhealthcare outcomes.
+This project demonstrates how machine learning can enhance patient care by predicting high-risk patients, enabling early interventions, and supporting proactive hospital resource allocation. The dashboard illustrates both manual input and simulated real-time monitoring, showing how predictive analytics can inform staffing, and equipment planning to improve patient care andhealthcare outcomes.
 --- 
 
 ## Author

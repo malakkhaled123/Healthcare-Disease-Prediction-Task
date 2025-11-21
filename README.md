@@ -116,8 +116,8 @@ The dashboard allows a user to enter health details and get a predicted probabil
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/diabetes-risk-dashboard.git
-cd diabetes-risk-dashboard
+git clone https://github.com/malakkhaled123/Healthcare-Disease-Prediction-Task
+cd Healthcare-Disease-Prediction-Task
 
 # Install dependencies
 pip install -r requirements.txt

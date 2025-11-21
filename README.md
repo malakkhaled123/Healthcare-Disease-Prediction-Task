@@ -1,8 +1,8 @@
-# Diabetes Risk Prediction Model
+# Enhancing Patient Care with Predictive Analytics: Diabetes Risk Prediction
 
 ## Overview
 
-This project predicts the risk of diabetes using the NHANES dataset (August 2021 – August 2023). The goal is to create a machine learning model and a Streamlit dashboard that allows users to input their health details and receive an estimated probability of diabetes.
+This project predicts the risk of diabetes using the NHANES dataset (August 2021 – August 2023). The goal is to create a machine learning model and a Streamlit dashboard that allows users to input their health details and receive an estimated probability of diabetes. The prototype simulates real-time patient monitoring and resource planning, demonstrating how predictive analytics can help hospitals identify high-risk patients early, allocate resources efficiently, and support data-driven decision-making for improved patient care.
 
 **Dataset:** [NHANES 2021-2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023)
 
@@ -105,7 +105,7 @@ Three models were trained and evaluated:
 
 ## Streamlit Dashboard
 
-The dashboard allows a user to enter health details and get a predicted probability of diabetes:
+The dashboard allows a user to manually enter health details or it can allow real-time patient monitoring by generating patient data and predicting diabetes risk. High-risk counts are tracked to provide recommendations for hospital resources, such as doctors, test kits, and clinic slots, showing how predictive analytics can support hospital workflow.
 
 **Features in Dashboard:**
 
@@ -187,8 +187,8 @@ diabetes-risk-dashboard/
 ---
 
 ## Conclusion:
-This project illustrates how machine learning models can be applied in real-world healthcare scenarios to enhance patient care, reduce risks, and support proactive medical decision-making. It aligns with the broader vision of predictive analytics in healthcare, enabling hospitals to combine data-driven insights with clinical expertise for improved outcomes.
 
+This project demonstrates how machine learning can enhance patient care by predicting high-risk patients, enabling early interventions, and supporting proactive hospital resource allocation. The dashboard illustrates both manual input and simulated real-time monitoring, showing how predictive analytics can inform staffing, and equipment planning to improve patient care andhealthcare outcomes.
 --- 
 
 ## Author
